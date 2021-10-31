@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623638228643",
+    "firebase_url": "https://list-app-10d01-default-rtdb.firebaseio.com",
+    "project_id": "list-app-10d01",
+    "storage_bucket": "list-app-10d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623638228643:android:13dce80afbc4a0c6fc9916",
+        "android_client_info": {
+          "package_name": "com.decentitservice.ListApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623638228643-ph5evsgt1bl1d9njd9dsatr8es5ovdbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_ZW2bSfO22e1sS7napq_K2ZIMtX81I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623638228643-ph5evsgt1bl1d9njd9dsatr8es5ovdbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

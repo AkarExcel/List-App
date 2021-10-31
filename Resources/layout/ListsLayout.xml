@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:text="+ New List"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/newListBotton_id"
+        android:textAllCaps="false"
+        android:background="#ffba68c8"
+        android:textSize="20dp"
+        android:textStyle="normal"
+        android:textColor="#ffff9100" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/groceryListView_id"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_weight="0.5" />
+    <Button
+        android:text="Login!"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/profileButton_id"
+        android:background="#ffff9100"
+        android:textColor="#ff000000"
+        android:textAllCaps="false"
+        android:textSize="24dp" />
+
+</LinearLayout>
